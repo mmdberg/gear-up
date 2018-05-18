@@ -21,30 +21,30 @@ Here's how I faced these challenges, and how I came through it.
 
 ## Session Outline (Please include who is facilitating and how much time you are going to spend in each section):
 Intros: 15min
-  -Say your name and mod and a summer camp you went to and if you loved it or hated it, and why you chose this session.
+  -Say your name, mod, favorite summer activity, and why you chose this session.
   
+Videos: 6 min
+Will Smith's take on failure (why we need failure): [video](https://www.youtube.com/watch?v=rBUSsP9rDsw) 2min
+Stories of a famous people of history [video](https://www.youtube.com/watch?v=zLYECIjmnQs) 3min
 
-  
-Stories of a few famous people of history (slides, video?) 4min
-Found a good video: [video](https://www.youtube.com/watch?v=zLYECIjmnQs)
+Discussion: 25min
+Why we chose this session: 
+Mention: If this makes you feel uncomfortable, that's kind of the point as it's a common interview question
 
-Slides: 
-  -US Grant 
-  -Jk Rowling 
-  -Elon Musk
-  -Steve Jobs 
+In small groups: Talk about a time you have failed 
+  -start with groups of two, turn and talk 3min
+  -then open up to table 10min
+  -then open it up to class to whoever wants to share 10min
 
-DISCLAIMER:
-*If this makes you feel uncomfortable, that's kind of the point as it's a commin interview question*
+Have them read article about why failure is good: 5min
+*Slack to them beforehand
+  [4 steps to overcome failure](https://www.fastcompany.com/3035120/4-steps-to-overcoming-failure-and-using-it-to-your-advanta)
 
-In small groups: Talk about a time you have failed as small stories 
-  -start with groups of two, turn and talk
-  -then open up to table 
-  -then open it up to class to whoever wants to share
-
-Articles to read: 
-  [famous_folk](https://www.wanderlustworker.com/12-famous-people-who-failed-before-succeeding/)
-
-Social stigma of failure as a negative
+More discussion questions:
+First have them discuss as a table 10min
+Discuss as a group ~15min/until end
+  Why is there a social stigma that failure is negative?
+  What are some ways you can overcome failure?
+  What kinds of failure have you overcome at Turing?
 
 # Submit a PR at the end of this session and tag @emhickmann
